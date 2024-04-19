@@ -1,0 +1,25 @@
+10.150.250.166:1111/empSave
+requst:
+{
+  "name":"naidu"
+}
+repones:
+
+{
+  "code": "200",
+  "status": true,
+  "error": "successfully saved"
+}
+
+
+10.150.250.166:1111/texCal
+requst:
+{
+ "doj":"30-05-2016",
+  "sal":"750000"
+}
+repones:
+{
+  "code": "200",
+  "sal_total": 37500.0
+}
